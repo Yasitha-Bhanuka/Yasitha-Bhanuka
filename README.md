@@ -17,7 +17,7 @@
 <h3 align="left">See my works:</h3>
 <p align="left">
 <p>
-<p><a href="https://yasitha-bhanuka.github.io/online-calculator/" target="blank"><img align="center" src="https://www.svgrepo.com/show/247481/calculator.svg" alt="@calculatorSvg" height="30" width="40" /> Basic Calculator (Output shown by console log)</a></p>
+<p><a href="https://yasitha-bhanuka.github.io/online-calculator/" target="blank"><img align="center" src="https://www.svgrepo.com/show/247481/calculator.svg" alt="@calculatorSvg" height="30" width="40" /> Basic Calculator </a></p>
 
 <p><a href="https://yasitha-bhanuka.github.io/HTML-CSS-COURSE/" target="blank"><img align="center" src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="@youtubeSvg" height="30" width="40" /> Youtube Clone (Practise Basic CSS)</a></p>
 
