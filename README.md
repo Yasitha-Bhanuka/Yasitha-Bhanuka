@@ -15,7 +15,7 @@
 - ⚡ Fun fact **I am self motivator🧘**
 
 <h3 align="left">My works</h3>
-<p align="left">Bootstrap responsive landing page:<a href="[https://www.cprogramming.com/](https://yasitha-bhanuka.github.io/Bootstrap-responsive-page/)" target="_blank" rel="noreferrer"> 🐱‍🚀 Click here</a></p>
+<p align="left">Bootstrap responsive landing page:<a href="https://yasitha-bhanuka.github.io/Bootstrap-responsive-page/" target="_blank" rel="noreferrer"> 🐱‍🚀 Click here</a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="js" width="40" height="40"/> </a>
