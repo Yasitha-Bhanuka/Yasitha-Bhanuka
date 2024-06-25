@@ -15,6 +15,7 @@
 - ⚡ Fun fact **I am self motivator🧘**
 
 <h3 align="left">My works</h3>
+<p align="left">Yasitha's portfolio:<a href="https://yasitha-bhanuka.github.io/Yasitha-s-Portfolio/" target="_blank" style="text-decoration: none;" > 🦁 Click here</a></p>
 <p align="left">Bootstrap responsive landing page:<a href="https://yasitha-bhanuka.github.io/Bootstrap-responsive-page/" target="_blank" style="text-decoration: none;" > 🐱‍🚀 Click here</a></p>
 <p align="left">Dog app landing website page:<a href="https://yasitha-bhanuka.github.io/Dog-App-Bootstrap-Responsive-Landing-Page/" target="_blank" style="text-decoration: none;"> 🐶 Click here</a></p>
 <p align="left">UI design practise using canva:<a href="https://aiainsurance435e6ry.my.canva.site/" target="_blank" style="text-decoration: none;"> 😏 Click here</a></p>
